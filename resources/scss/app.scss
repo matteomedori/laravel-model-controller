@@ -1,1 +1,28 @@
 @import "~bootstrap/scss/bootstrap";
+
+body {
+    background-image: url(https://images.freeimages.com/images/large-previews/a3b/website-rays-background-pattern-1637863.png);
+}
+
+h1 {
+    color: rgb(110, 21, 110);
+    text-shadow: 4px 3px #c9eff1;
+}
+
+.card-title {
+    color: rgb(110, 21, 110);
+}
+
+.card {
+    border: 1px solid rgb(110, 21, 110);
+}
+
+.btn {
+    color: rgb(110, 21, 110);
+    border-color: rgb(110, 21, 110);
+}
+
+.btn:hover {
+    color: white;
+    background-color: rgb(110, 21, 110);
+}
